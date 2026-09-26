@@ -1,16 +1,30 @@
-## Hi there 👋
+# Olá, eu sou o João Cavalcante! 👋
 
-<!--
-**JoaoCavalcante00/JoaoCavalcante00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Estudante de Análise e Desenvolvimento de Sistemas (Fatec)**
+🚀 Apaixonado por tecnologia, resolução de problemas e aprendizado contínuo.
+🎯 Buscando minha primeira oportunidade de estágio na área de TI.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologias & Ferramentas
+- **Linguagens:** HTML5, CSS3, JavaScript, Java
+- **Banco de Dados:** SQL (MySQL / Postgres)
+- **Ferramentas:** Git, GitHub, VS Code
+
+---
+
+### 🌐 Idiomas
+- 🇧🇷 **Português:** Nativo
+- 🇺🇸 **Inglês:** Avançado / Fluente
+
+---
+
+### 📚 O que estou fazendo no momento?
+- 📖 Focado nos conceitos de Orientação a Objetos (POO) e Banco de Dados Relacional.
+- 💻 Desenvolvendo projetos práticos da faculdade e estudos individuais.
+- 🛠️ Construindo meus primeiros projetos de portfólio.
+
+---
+
+📫 **Entre em contato comigo:**
+- ✉️ **E-mail:** [joaocavalcante00...](mailto:joaocavalcante00...)

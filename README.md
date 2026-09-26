@@ -28,6 +28,7 @@
 
 #### 🚀 Frameworks & Runtimes
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 #### 🗄️ Databases
@@ -44,8 +45,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoaoCavalcante00&show_icons=true&theme=tokyonight&locale=en" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoCavalcante00&layout=compact&theme=tokyonight&locale=en" alt="Top Languages" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JoaoCavalcante00&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoCavalcante00&layout=compact&theme=tokyonight" alt="Top Languages" width="350" />
 </div>
 
 ---

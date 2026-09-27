@@ -45,10 +45,9 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoaoCavalcante00&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoCavalcante00&layout=compact&theme=tokyonight" alt="Top Languages" width="350" />
+  <img src="https://streak-stats.demolab.com/?user=JoaoCavalcante00&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoaoCavalcante00&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" width="48%" />
 </div>
-
 ---
 
 ### 📫 Let's Connect
